@@ -14,6 +14,7 @@ A clone of the 2014 version of the apple website
 [Click Here](https://www.theodinproject.com/courses/html5-and-css3/lessons/building-with-backgrounds-and-gradients)
 
 ## Screenshot
-![applewebsite2014](https://user-images.githubusercontent.com/17970203/61650750-46947e80-acac-11e9-8c33-a4310fc12904.png)
+
+![appleclone](https://user-images.githubusercontent.com/17970203/62875237-94842b80-bd1a-11e9-8975-6a82e094cd53.png)
 
 
